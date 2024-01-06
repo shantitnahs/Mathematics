@@ -2,7 +2,7 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-    int array[]={23, 40, 100, 1, 20};
+    int array[]={23, 40, 200, 1, 20};
         System.out.println(array[5]);
 //    for (int element:array){
 //        System.out.println(element);
